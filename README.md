@@ -1,4 +1,4 @@
-# Job Log Dowloader
+# Job Log Downloader
 
 Salesforce B2C Commerce Cloud (Demandware) Job Log Downloader. The process also uploads to a specified SFTP folder.
 
