@@ -1,0 +1,10 @@
+{
+    "default_webdav_server": "abc.demandware.net only host will suffice",
+    "default_webdav_username": "AM Username or Email",
+    "default_webdav_password": "AM Password OR Instance WebDAV Access Key",
+    "default_job_log_dir": "/Local/logs where the logs will be written",
+    "default_sftp_user": "SFTP Username or Email",
+    "default_sftp_password": "SFTP Password",
+    "default_sftp_host": "server.company.com SFTP host",
+    "default_sftp_remote": "/Remote/logs where the logs will be uploaded"
+}

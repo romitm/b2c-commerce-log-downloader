@@ -1,0 +1,29 @@
+{
+    "name": "log-downloader",
+    "author": {
+        "name": "Romit Maity",
+        "email": "rmaity@salesforce.com",
+        "url": "https://www.linkedin.com/in/romitm/"
+    },
+    "license": "UNLICENSED",
+    "version": "0.0.1",
+    "keywords": [
+        "Downloader",
+        "Logs",
+        "Demandware",
+        "Salesforce"
+    ],
+    "description": "A grunt script to download and analyze Demandware logs extension",
+    "repository": "https://bitbucket.org",
+    "devDependencies": {
+        "grunt": "~1.4.1",
+        "grunt-cli": "~1.4.3",
+        "grunt-contrib-clean": "~2.0.0",
+        "grunt-contrib-compress": "~2.0.0",
+        "grunt-mkdir": "~1.1.0",
+        "dateformat": "~4.5.1",
+        "ftp-deploy": "~2.4.1",
+        "time-grunt": "~2.0.0",
+        "xml2js": "~0.4.23"
+    }
+}
